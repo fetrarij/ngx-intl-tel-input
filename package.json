@@ -1,6 +1,6 @@
 {
-  "name": "ngx-intl-tel-input-ng7",
-  "version": "0.0.1",
+  "name": "ngx-intl-tel-input-angular7",
+  "version": "0.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
